@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Thegamers Social Links</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            background-color: darkblue;
+        }
+
+        a {
+            position: absolute;
+            top: 50px;
+            left: 500px;
+            display: inline-block;
+            width: 300px;
+            height: 300px;
+            border-radius: 50%;
+            border: 7px solid red;
+            text-align: center;
+            line-height: 100px;
+            background-color: orange;
+            font-size: 40px;
+            text-decoration: none;
+            text-shadow: 5px red;
+            color: black;
+        }
+
+        a:hover {
+            background-color: red;
+        }
+
+        img {
+            position: absolute;
+            top: 270px;
+            left: 630px;
+        }
+    </style>
+</head>
+
+
+<body>
+    <a href="https://www.youtube.com/@Thegamers_TGS" target="_blank" class="Link1">Thegamers Youtube Channel</a>
+    <img src="youtube-logo-768x573.webp" alt="Dinosaur" width="60" height="60">
+</body>
+
+</html> 
